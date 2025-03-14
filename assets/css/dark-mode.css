@@ -1,0 +1,269 @@
+/* Dark Mode Styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* Header */
+body.dark-mode .main-header {
+  background-color: #1a1a1a;
+  border-color: #333;
+}
+
+body.dark-mode .logo {
+  color: #fff;
+}
+
+body.dark-mode .search-input {
+  background-color: #2a2a2a;
+  border-color: #333;
+  color: #e0e0e0;
+}
+
+body.dark-mode .search-btn {
+  color: #999;
+}
+
+body.dark-mode .nav-link {
+  color: #e0e0e0;
+}
+
+body.dark-mode .btn-outline {
+  border-color: #444;
+  color: #e0e0e0;
+}
+
+body.dark-mode .btn-outline:hover {
+  background-color: #2a2a2a;
+}
+
+/* Footer */
+body.dark-mode .main-footer {
+  background-color: #1a1a1a;
+  border-color: #333;
+}
+
+body.dark-mode .footer-links a {
+  color: #999;
+}
+
+body.dark-mode .copyright {
+  color: #999;
+}
+
+/* Cards and Containers */
+body.dark-mode .post-card,
+body.dark-mode .user-profile-card,
+body.dark-mode .suggestions-card,
+body.dark-mode .profile-container,
+body.dark-mode .create-post-container,
+body.dark-mode .create-story-container,
+body.dark-mode .empty-state,
+body.dark-mode .stories-tray {
+  background-color: #1a1a1a;
+  border-color: #333;
+}
+
+/* Post Elements */
+body.dark-mode .post-username,
+body.dark-mode .post-action-btn,
+body.dark-mode .likes-count,
+body.dark-mode .caption-username,
+body.dark-mode .comment-username {
+  color: #e0e0e0;
+}
+
+body.dark-mode .post-options-btn,
+body.dark-mode .time-ago,
+body.dark-mode .caption-text,
+body.dark-mode .comment-text {
+  color: #b0b0b0;
+}
+
+body.dark-mode .post-comment-form {
+  border-color: #333;
+}
+
+body.dark-mode .comment-input {
+  color: #e0e0e0;
+}
+
+body.dark-mode .comment-submit {
+  color: #fff;
+}
+
+/* Story Elements */
+body.dark-mode .story-avatar {
+  border-color: #333;
+}
+
+body.dark-mode .story-username {
+  color: #e0e0e0;
+}
+
+body.dark-mode .story-preview {
+  border-color: #444;
+}
+
+body.dark-mode .story-info {
+  color: #b0b0b0;
+}
+
+/* Forms */
+body.dark-mode .form-group label {
+  color: #e0e0e0;
+}
+
+body.dark-mode .form-group input,
+body.dark-mode .form-group textarea {
+  background-color: #2a2a2a;
+  border-color: #444;
+  color: #e0e0e0;
+}
+
+body.dark-mode .form-group input:focus,
+body.dark-mode .form-group textarea:focus {
+  border-color: #666;
+}
+
+/* Buttons */
+body.dark-mode .btn-primary {
+  background-color: #000;
+  color: #fff;
+  border-color: #000;
+}
+
+body.dark-mode .btn-primary:hover {
+  background-color: #333;
+  border-color: #333;
+}
+
+/* Messages */
+body.dark-mode .messages-container {
+  background-color: #1a1a1a;
+  border-color: #333;
+}
+
+body.dark-mode .messages-sidebar {
+  border-color: #333;
+}
+
+body.dark-mode .conversation-item {
+  border-color: #333;
+}
+
+body.dark-mode .conversation-item:hover,
+body.dark-mode .conversation-item.active {
+  background-color: #2a2a2a;
+}
+
+body.dark-mode .conversation-name {
+  color: #e0e0e0;
+}
+
+body.dark-mode .last-message,
+body.dark-mode .message-time {
+  color: #999;
+}
+
+body.dark-mode .message-form-container {
+  border-color: #333;
+  background-color: #1a1a1a;
+}
+
+body.dark-mode .message-input {
+  background-color: #2a2a2a;
+  border-color: #444;
+  color: #e0e0e0;
+}
+
+body.dark-mode .message-bubble {
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+}
+
+body.dark-mode .message.sent .message-bubble {
+  background-color: #0a3d62;
+}
+
+/* Modal */
+body.dark-mode .modal-content {
+  background-color: #1a1a1a;
+  border-color: #333;
+}
+
+body.dark-mode .modal-header {
+  border-color: #333;
+}
+
+body.dark-mode .close-modal {
+  color: #e0e0e0;
+}
+
+body.dark-mode .search-results {
+  background-color: #2a2a2a;
+  border-color: #444;
+}
+
+body.dark-mode .user-result:hover {
+  background-color: #333;
+}
+
+body.dark-mode .user-result-name {
+  color: #e0e0e0;
+}
+
+body.dark-mode .user-result-fullname {
+  color: #999;
+}
+
+/* Profile */
+body.dark-mode .profile-username,
+body.dark-mode .profile-name {
+  color: #e0e0e0;
+}
+
+body.dark-mode .profile-tabs {
+  border-color: #333;
+}
+
+body.dark-mode .tab-btn {
+  color: #999;
+}
+
+body.dark-mode .tab-btn.active {
+  color: #fff;
+  border-color: #fff;
+}
+
+/* Effects */
+body.dark-mode .effect-item {
+  background-color: #2a2a2a;
+  border-color: #444;
+}
+
+body.dark-mode .effect-item.active {
+  background-color: #333;
+  border-color: #666;
+}
+
+/* Misc */
+body.dark-mode .verified-badge {
+  color: #e0e0e0;
+}
+
+body.dark-mode .page-title {
+  color: #e0e0e0;
+}
+
+body.dark-mode .alert-error {
+  background-color: #3d1c1c;
+  color: #ff6b6b;
+  border-color: #5c2626;
+}
+
+body.dark-mode .alert-success {
+  background-color: #1c3d1c;
+  color: #6bff6b;
+  border-color: #265c26;
+}
